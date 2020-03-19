@@ -3,6 +3,9 @@
     {
       "id": 1,
       "title": "hello"
+      "info": {
+          "email": "helllo@mail.com",
+          "phone": "231121212"
     }
   ],
   "profile": {
